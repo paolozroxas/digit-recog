@@ -82,7 +82,7 @@ class App extends Component {
             onMouseLeave={this.onMouseLeave}
           />
         </div>
-        <h3>{prediction}
+        <h3>{prediction}</h3>
       </div>
     );
   }
