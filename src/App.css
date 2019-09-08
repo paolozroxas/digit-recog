@@ -14,6 +14,16 @@
 }
 
 .canvas-class {
+  width: 112px;
+  height: 112px;
+  border: 1px solid darkgrey;
+  border-radius: 7px;
+}
+
+.classify-btn {
+  font-size: 16px;
+  padding: 10px;
+  margin: 10px;
   border: 1px solid darkgrey;
   border-radius: 7px;
 }
