@@ -1,9 +1,13 @@
 # Overview
 A neural network classification model that can recognize handwritten numeric digits.
-You can draw handwritten digits (0-9) on a page and then submit the drawing. The server will respond with the model's prediction of which digit
+You can draw handwritten digits (0-9) on a page and then submit the drawing. The server will respond with the model's prediction of which digit was drawn.
 
 # Design
 This project consists of a React frontend and an Express backend.
+
+# What to expect in the future
+- The addition of a regularization term to prevent overfitting
+- Comparison with a convolutional neural network
 
 # Setup
 ## Download datasets
